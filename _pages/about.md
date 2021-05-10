@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello. My name is Nye. ["NyeGuy" has been my github handle] for many years.
+Hello. My name is Nye.
 
-I drew my first comic when I was 11. Started using computer graphics at 19 [(Macromedia Flash)](https://en.wikipedia.org/wiki/Macromedia)]. Worked on my first TV show at 23, my first AAA game at 27, and my first feature film at 29. I built my first independent game at 32, and began seriously writing and researching at 35. Got married and had kids when I was 40. At 46, I feel like I am just getting started.
 
 I am the Associate Chair of Interactive Design and Game Development at [(SCAD) the Savannah College of Art and Design.](https://www.scad.edu/academics/programs/interactive-design-and-game-development) I also am Co-Founder of [Box Rocket Studio,](https://www.scad.edu/academics/programs/interactive-design-and-game-development) a real time animation company focused on creative collaboration.
 
@@ -18,9 +17,9 @@ At SCAD, I research and teach [Animation for Games,](http://blog.scad.edu/nwarbu
 
 Prior to my work at SCAD, my career spanned animated television, national commercials, independent game development, and [30+ feature films](https://www.imdb.com/name/nm1100970/) including Monster House, Battleship, Avengers, Men in Black III, and Oblivion. Working with startups, I developed projects with Disney Imagineering, Pearson Education, Comedy Central, Sony Television Games, and medical professionals from USC and Cedars-Sinai.
 
-My technical focus is with animation data and real time animation systems. As a journeyman animator and previsualization artist, I work with Autodesk Maya and a variety of motion capture platforms. I primarily develop my real time work in [Epic's Unreal Engine](https://unrealengine.com), but sometimes also work with [Unity](https://unity.com/)Unity and the open source [Godot](https://godotengine.org/). I also run animation focused experimentation using machine learning models where I use a variety of interfaces and code libraries. A selection of some of my works are in my portfolio.
+My technical focus is with animation data and real time animation systems. As a journeyman animator and previsualization artist, I work with Autodesk Maya and a variety of motion capture platforms. I primarily develop my real time work in [Epic's Unreal Engine](https://unrealengine.com), but sometimes also work with [Unity](https://unity.com/)Unity and the open source [Godot](https://godotengine.org/). I also experiment with machine learning models where I use a variety of interfaces and code libraries. A selection of some of my works are in my portfolio.
 
-My creative side is improvisational, that is to say I don't know where I go day to day. I understand that focused discipline destroys the ability to be impulsively creative. [I counter this societal structure by allowing myself to actively draw and write when I can](http://nyetoon), often without defined focus or outcome. These tend to be moments that I am most myself.
+My creative side is improvisational. That is to say, I don't know where I go day to day. I understand that focused discipline destroys the ability to be impulsively creative. [I counter this societal structure by allowing myself to actively draw and write when I can](http://nyetoon), often without defined focus or outcome. These tend to be moments that I am most myself.
 
 As an educator, I strive to bring network technology, open source, and new collaborative strategies to the content I develop. I believe the paradigm for how we learn is changing, and education is not something simply for an elite class of human. In the world of tomorrow, we will all be building [the metaverse together,](https://www.matthewball.vc/all/themetaverse) and it is critical that every human, with resources or not, understand the virtual world and the real time characters that will inhabit it.
 
