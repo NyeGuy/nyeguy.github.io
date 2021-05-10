@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nye Warburton"
 title_separator          : "-"
 name                     : &name "Nye Warburton"
-description              : &description "Designer, Animator, Educator, Technologist"
+description              : &description "Real Time Animator, Educator, Technologist"
 url                      : https://nyeguy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NyeGuy/nyeguy.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nye Warburton"
   avatar           : "profile.png"
-  bio              : "I'm a designer, animator, educator and creative technologist with a passion for educational systems, real time technology and democratizing machine learning for artists."
+  bio              : "I'm an animation systems researcher, educator and creative technologist with a passion for real time technology and machine learning."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "NyeGuy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/nyewarburton/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          :"https://www.youtube.com/c/NyeWarburton"
   wikipedia        :
 
 
