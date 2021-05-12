@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am the Associate Chair of Interactive Design and Game Development at [(SCAD) the Savannah College of Art and Design.](https://www.scad.edu/academics/programs/interactive-design-and-game-development) I also am Co-Founder of [Box Rocket Studio,](https://www.scad.edu/academics/programs/interactive-design-and-game-development) a real time animation company focused on creative collaboration.
+I am the Associate Chair of Interactive Design and Game Development at [(SCAD) the Savannah College of Art and Design.](https://www.scad.edu/academics/programs/interactive-design-and-game-development) I also consult on real time projects with [Box Rocket Studio.](https://boxrocket.studio)
 
-At SCAD, I research and teach [Animation for Games,](http://blog.scad.edu/nwarburt) which allows me to study real time [character movement, game mechanics, AI and state machines.](https://docs.unrealengine.com/en-US/AnimatingObjects/SkeletalMeshAnimation/StateMachines/Overview/index.html) I work with both game developers and animators to push the immersive quality of the student games. I also teach a variety of classes in Unreal development, art and with [SCAD's innovation program.](https://www.scad.edu/about/scadpro) In addition to teaching, as associate chair, I am responsible for the strategy and development of [SCAD Games Studio,](https://scaditgm.blog/scad-games-studio/) where I facilitate the workflow development and shipping of student games.
+At SCAD, I research and teach [Animation for Games,](http://blog.scad.edu/nwarburt), a class that allows my continued focus on real time [characters, game mechanics, and AI.](https://docs.unrealengine.com/en-US/AnimatingObjects/SkeletalMeshAnimation/StateMachines/Overview/index.html) I work with both game developers and animators to push the immersive quality of the student games. I also teach a variety of classes in Unreal development, art and with [SCAD's innovation program.](https://www.scad.edu/about/scadpro) In addition to teaching, as associate chair, I am responsible for the strategy and development of [SCAD Games Studio,](https://scaditgm.blog/scad-games-studio/) where I facilitate the workflow development and shipping of student games.
+
+![](img src='/images/image-across-post.jpg')
 
 Prior to my work at SCAD, my career spanned animated television, national commercials, independent game development, and [30+ feature films](https://www.imdb.com/name/nm1100970/) including Monster House, Battleship, Avengers, Men in Black III, and Oblivion. Working with startups, I developed projects with Disney Imagineering, Pearson Education, Comedy Central, Sony Television Games, and medical professionals from USC and Cedars-Sinai.
 
