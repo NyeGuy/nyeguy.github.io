@@ -13,6 +13,6 @@ I used the curriculum and adapted it to define two projects for the students. Th
 
 This is a selection of works from my most recent class' final project:
 
-<figure><iframe src="https://www.youtube.com/watch?v=Dgh5BOQc080" allowfullscreen="true"></iframe></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is work from Adria Graham, Griffin Long, Church Leu and Pierce Rudman.
