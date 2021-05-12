@@ -9,38 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BFA Fine Arts, University of Pennsylvania, 1997
-* MFA Computer Art, Academy of Art University, 2004
-* Course Work:
-  University of California, Los Angeles: Screen Writing
-  Richard Williams Master Class, Viborg, Denmark: Animation
-  Temple University, Rome: Art, Photography and History
-
-Professional Experience
-======
-* Current
-  * 2020 –	Associate Chair, Interactive Design and Game Development, School of Digital Media, Savannah College of Art and Design	Educational Strategist and Co-Manager for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-
-
-  Current
-  2020 –	Associate Chair, Interactive Design and Game Development, School of Digital Media, Savannah College of Art and Design	Educational Strategist and Co-Manager for
-  SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
-  2013 –	Computer Graphics Consultant	Expert in computer graphics, game development, real time animation and pipeline.
-
-  Lectures
+  Education
   ----------
-  SCAD Workshop
-  Winter 2021	Introduction to Machine Learning for Artists	Savannah College of Art and Design, Scad Extra Workshop, Savannah, GA
+  * BFA Fine Arts, University of Pennsylvania, 1997
+  * MFA Computer Art, Academy of Art University, 2004
+  * Course Work:
+    * University of California, Los Angeles: Screen Writing
+    * Richard Williams Master Class, Viborg, Denmark: Animation
+    * Temple University, Rome: Art, Photography and History
+
+  Professional Experience
+  ----------
+  * 2020 – present: Associate Chair, Interactive Design and Game Development
+    * School of Digital Media, Savannah College of Art and Design	Educational Strategist and Co-Manager for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
+    * Duties include: Educational Strategy and Co-Management for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
+    * Chair: Suanne Fu
+
+    * 2013 – present:	Computer Graphics Consultant
+      *  Animation, Game Development, Real Time Systems and Workflows.
+
+    Teaching and Lectures
+    ----------
+      * Winter 2021	Introduction to Machine Learning for Artists
+        * Savannah College of Art and Design, SCAD-Extra Workshop, Savannah, GA
 
   SCAD ITGM Classes
   Winter 2021	Animation for the Engine	Savannah College of Art and Design, School of Digital Media, ITGM, Savannah, GA
