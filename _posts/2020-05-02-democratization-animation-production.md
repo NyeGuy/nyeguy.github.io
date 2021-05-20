@@ -10,14 +10,13 @@ tags:
 
 
 Imagine the hundreds of people that a computer graphics animated feature requires.
-(Think: Pixar or a VFX heavy superhero blockbuster.
+Now imagine that same labor done with a handful of artists.
 
-Now imagine the entire undertaking of these projects being done by a handful of people. Instead of a pipeline of specialized workers, this handful of people are unique multi-talented “librarians.” Like DJ’s who sample electronic music, animated storytelling will mix streams of data, creating visualizations for a variety of new platforms.
+What if...
+Instead of a pipeline of specialized workers, there were a handful of people who are unique multi-talented “librarians.” Like DJ’s who sample electronic music, animated storytelling will mix streams of data, creating visualizations for a variety of new platforms.
 
 *Hypothesis:*
-
-
-Computer Graphics Production- as it exists in the movie business - will be disrupted by peer based, real time networks.
+Computer Graphics Production - as it exists in the movie business - will be disrupted by peer based, real time networks. This will lead to a revolution in education, as the entire world collectively learns to create the metaverse.
 
 Increasingly, collectives of creative developers are sharing new ideas, code and work flows. By sharing powerful tools and know-how, communities are growing at a pace that will soon outperform the quality and market need of closed systems. Essentially, the open networks will outperform the closed companies. The advances of these creative networks will make the computer graphics artists that work within it, mind-boggling, productive.
 
