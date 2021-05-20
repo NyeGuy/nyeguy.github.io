@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-  Education
-  ----------
+Education
+======
   * BFA Fine Arts, University of Pennsylvania, 1997
   * MFA Computer Art, Academy of Art University, 2004
   * Course Work:
@@ -19,14 +19,26 @@ redirect_from:
     * Temple University, Rome: Art, Photography and History
 
   Professional Experience
-  ----------
+  ======
   * 2020 – present: Associate Chair, Interactive Design and Game Development
     * School of Digital Media, Savannah College of Art and Design	Educational Strategist and Co-Manager for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
     * Duties include: Educational Strategy and Co-Management for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
     * Chair: Suanne Fu
 
-    * 2013 – present:	Computer Graphics Consultant
-      *  Animation, Game Development, Real Time Systems and Workflows.
+  * 2013 – present:	Computer Graphics Consultant
+    *  Animation, Game Development, Real Time Systems and Workflows.
+
+    Lecture and Stand Alone
+    ======
+        <ul>{% for post in site.teaching %}
+          {% include archive-single-cv.html %}
+        {% endfor %}</ul>
+
+    SCAD ITGM Classes
+    ======
+        <ul>{% for post in site.teaching %}
+            {% include archive-single-cv.html %}
+        {% endfor %}</ul>
 
     Teaching and Lectures
     ----------
@@ -131,11 +143,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
 Service and leadership
 ======
