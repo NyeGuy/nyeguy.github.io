@@ -13,13 +13,13 @@ Education
 ======
   * BFA Fine Arts, University of Pennsylvania, 1997
   * MFA Computer Art, Academy of Art University, 2004
-  * Course Work:
-    * University of California, Los Angeles: Screen Writing
-    * Richard Williams Master Class, Viborg, Denmark: Animation
-    * Temple University, Rome: Art, Photography and History
+    * Course Work:
+      * University of California, Los Angeles: Screen Writing
+      * Richard Williams Master Class, Viborg, Denmark: Animation
+      * Temple University, Rome: Art, Photography and History
 
-  Professional Experience
-  ======
+Professional Experience
+======
   * 2020 – present: Associate Chair, Interactive Design and Game Development
     * School of Digital Media, Savannah College of Art and Design	Educational Strategist and Co-Manager for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
     * Duties include: Educational Strategy and Co-Management for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
@@ -28,14 +28,14 @@ Education
   * 2013 – present:	Computer Graphics Consultant
     *  Animation, Game Development, Real Time Systems and Workflows.
 
-    Lecture and Stand Alone
-    ======
+Lecture and Stand Alone
+======
         <ul>{% for post in site.teaching %}
           {% include archive-single-cv.html %}
         {% endfor %}</ul>
 
-    SCAD ITGM Classes
-    ======
+SCAD ITGM Classes
+======
         <ul>{% for post in site.teaching %}
             {% include archive-single-cv.html %}
         {% endfor %}</ul>
