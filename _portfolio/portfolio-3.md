@@ -1,15 +1,13 @@
 ---
-title: "Machine Learning Experiments"
-excerpt: "Fun and Games with Neural Networks, GANs and other AI<br/><img src='/images/500x300.png'>"
+title: "Previsualization"
+excerpt: "Previsualization in Movies, Game Cinematics and Virtual Production"<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-AI is rapidly advancing into computer graphics. While it is still somewhat early for these technologies to be easily accessible to the artist, within a short period of time we will find ourselves experiencing a boom of productive creation. For more on my thoughts on the evolution of artificial intelligence in computer graphics, please see my post here.
-
-Otherwise, have fun exploring some of the nonsense below.  
+I became involved in previsualization in 2007 where friend of mine recruited me to Fox Features. I had never heard of previsualization then, but learned the craft by working with a number of innovating and smart virtual storytelling firms. I worked on over 30 films, with a variety of game cinematics, trailers and the odd commercial here and there. You can see a listing at my IMDB here. 
 
 
-### ShatnerGAN
+### Mindfulness Gaming - Way of the Bow, Pulse Cat and Experiments
 
 For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
 <br>
@@ -17,7 +15,7 @@ Software: 4K Video Downloader, Autocrop, and RunwayML
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Put a GAN  on it! - Stealing Beyonce's Motion Data
+### Agent Kickback - Browser Based Platformer Prototype
 
 For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
 <br>
@@ -25,7 +23,7 @@ Software: 4K Video Downloader, Autocrop, and RunwayML
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### YangGAN: Andrew Yang's Essence in AI #yanggang #humanityforward
+### Commander Cluck - Proceedural Side Scroller for iOS
 
 For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
 <br>
@@ -34,8 +32,7 @@ Software: 4K Video Downloader, Autocrop, and RunwayML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-### Ride the Train! - Experiments with Image Segmentation
+### Prototypes and Experiments
 
 For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
 <br>
