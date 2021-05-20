@@ -1,32 +1,59 @@
 ---
-title: "Animation"
+title: "Comics"
 excerpt: "Animation and Animation Direction"<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-After graduating from the Academy of Art in 2004, I began to work right away as an animator. It was a natural assumption for both myself and for others that this should be my focus. I started at Electronic Arts, but was soon plucked by Sony Imageworks to animate on the feature Monster House. I also spent time with a handful of independent productions and Blur. Even at a young age, I had major issues with the system of production in Los Angeles. I worked for three years as a 3D animator in large studios before retreating to the more interesting, but less lucrative independent world.  I funded my animation experimentation by working contracts in the more story focused Previsualization.
+It's really hard to be crazy. Thankfully drawing comics is my only safe refuge. There is no motivation to this except simply to do it.
 
 
-### Magnetism - MFA Thesis
 
-For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
-<br>
-Software: 4K Video Downloader, Autocrop, and RunwayML
+### Nyetoon 2012 - 2020
+
+TobyToon
+
+Driving Comics
+
+Fatherhood and Failure
+
+Nyetoon On Paper
+
+Marketing and Lawyers
+
+Getting Married
+
+Taking Breaks and Meh
+
+Net Neutrality
+
+Finding my Stride
+
+Lisa Comics
+
+The First Nyetoons
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Television and Web Series - Development Hell
+### The Interdimensional Adventures of Floyd and Norm (2015)
 
-For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
-<br>
-Software: 4K Video Downloader, Autocrop, and RunwayML
+Floyd and Norm – Part 01
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Floyd and Norm – Part 02
 
-### Floyd and Norm
+Floyd and Norm – Part 03
 
-For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
-<br>
-Software: 4K Video Downloader, Autocrop, and RunwayML
+### Recession Bear Comics
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Recession Bear 01
+
+Recession Bear 02
+
+### Miscellaneous Comics (2010 – 2013)
+
+The Sanity Index
+
+A Little Death
+
+Early Absurdity
+
+The Guys with the Ties
