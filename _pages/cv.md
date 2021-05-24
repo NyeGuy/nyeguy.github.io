@@ -50,8 +50,8 @@ Teaching and Lectures
   * The Art Institute of Santa Monica
    * 1999 – 2000	Animation Instructor	School of Visual Arts, New York, NY
 
-  Animation Direction and Development
-  ======
+Animation Direction and Development
+======
   * 2018	Aatma Studio Rebrand / Relaunch	Aatma Studio, San Francisco, CA
   * 2014	Mitsubishi iJet Sword Paper	Animus Studios, Providence, RI
   * 2013	Get Wild – Short Film	Wildlife.LA, Los Angeles, CA
@@ -60,8 +60,8 @@ Teaching and Lectures
   * 2008	Magnetism – Thesis Film	Academy of Art University, San Francisco, CA
   * 1999	Jerry and the Box of Cereal	NyeWarburton.com, Seattle, WA
 
-  Game Design, Direction and Development
-  ======
+Game Design, Direction and Development
+======
   * 2017	Live Stream Game Show Prototype	Sony Television Games, Los Angeles, CA
   * 2016	Way of the Bow / PulseCat	Bloopco Inc., Los Angeles, CA
   * 2015	Playwell Prototype – HTML5	Playwell, Los Angeles, CA
@@ -70,8 +70,8 @@ Teaching and Lectures
   * 2013	Word Eater – iOS	Fabric Interactive, Los Angeles, CA
   * 2012	Commander Cluck – iOS Game	NyeWarburton.com, Los Angeles, CA
 
-  Professional Computer Graphics and Animation Activity
-  ======
+Professional Computer Graphics and Animation Activity
+======
   * 2018	Senior Previsualization Artist, Star Trek Discovery, CBS	Pixomondo, Los Angeles, CA
   * 2017	Lead Previsualization Artist, Future Future	Pixomondo, Los Angeles, CA
   * 2017	Previsualization/Layout Supervisor, Skyhunter	Pixomondo, Los Angeles, CA
@@ -108,32 +108,28 @@ Teaching and Lectures
   * 2000	Effects Artist, The Code – Independent Feature	New York, NY
   * 1998 – 1999	Motion Graphics Artist, WNAC Fox Providence Television	Providence, RI
 
-  Comic Writing and Development
-  ======
+Comic Writing and Development
+======
   * 2008 –	Nyetoon, Comic Blog	Los Angeles, CA
   * 2011	The Sanity Index, Comic Blog	Los Angeles, CA
   * 2012	The Interndimensional Adventures of Floyd and Norm, Comic Series	Los Angeles, CA
 
-  Awards
-  ======
+Awards
+======
   * 2004	Magnetism, 1st Place Animation, Spring Show	Academy of Art University, 2004
   * 2004	Magnetism, Best of Show, KidsEye Festival	Providence, RI
 
-  Coursework
-  ======
+Coursework
+======
   * 1995	Fine Arts / Photography / History	Temple University, Rome, Italy
   * 2003	Richard Williams Animation Master Class	Viborg, Denmark
   * 1998	CGI / Maya Training	Mesmer Animation Labs, Seattle, WA
   * 2006	Screen Writing	University of California, Los Angeles, CA
 
-  Other Activity
-  ======
+Other Activity
+======
   * 1997 – 1998	Improvisational Comedian, Polywumpus	Philadelphia, PA
   * 1995 – 1997	Improvisational Comedian, Without a Net	University of Pennsylvania, , Philadelphia, PA
   * 2001 – 2002	Improvisational Comedian, Platypus Jones	San Francisco, CA
   * 1996	Cartoonist, 34th Street Magazine	University of Pennsylvania, Philadelphia, PA
   * 1986 – 1989	Actor, The Rhode Island Shakespeare Theater	Newport, RI
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
