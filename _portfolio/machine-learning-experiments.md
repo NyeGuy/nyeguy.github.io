@@ -1,6 +1,7 @@
 ---
 title: "Machine Learning Experiments"
 excerpt: "Fun and Games with Neural Networks, GANs and other AI.<br/><img src='/images/500x300.png'>"
+permalink: /portfolio/machine-learning-experiments
 collection: portfolio
 ---
 

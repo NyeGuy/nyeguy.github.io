@@ -8,11 +8,4 @@ date: 2021-05-15
 location: "Virtual"
 ---
 
-SCAD Pro Techops
-======
-
-Heading 2
-======
-
-Heading 3
-======
+1234
