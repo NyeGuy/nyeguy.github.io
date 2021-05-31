@@ -1,6 +1,6 @@
 ---
 title: "Game Development"
-excerpt: "Game Development Projects"<br/><img src='/images/500x300.png'>"
+excerpt: "Game Projects and Prototypes"<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
