@@ -4,6 +4,12 @@ title: "Comics"
 permalink: /comics/
 author_profile: true
 ---
+{% include base_path %}
+{% for post in site.comics reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+
 <h3>Nyetoon 2012 - 2020</h3>
 <img src="../images/nyetoon_header.png"></img>
 <br>
@@ -31,6 +37,7 @@ The First Nyetoons
 <br>
 <h3>The Interdimensional Adventures of Floyd and Norm (2015)</h3>
 <img src="../images/floydnorm_header.png"></img>
+<br>
 Floyd and Norm – Part 01
 <br>
 Floyd and Norm – Part 02
@@ -39,12 +46,14 @@ Floyd and Norm – Part 03
 <br>
 <h3>Recession Bear Comics</h3>
 <img src="../images/recessionbear_header.png"></img>
+<br>
 Recession Bear 01
 <br>
 Recession Bear 02
 <br>
 <h3>Miscellaneous Comics (2010 – 2013)</h3>
 <img src="../images/misccomics_header.png"></img>
+<br>
 The Sanity Index
 <br>
 A Little Death
