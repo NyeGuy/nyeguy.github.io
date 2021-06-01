@@ -1,6 +1,6 @@
 ---
 title: "Previsualization"
-excerpt: "Virtual Sequence Development for Film, Games and Commercials.<br/><img src='/images/500x300.png'>"
+excerpt: "Virtual Sequence Development for Film, Games and Commercials.<br/><img src='/images/pewvia_header_01.png'>"
 permalink: /portfolio/previsualization
 collection: portfolio
 ---

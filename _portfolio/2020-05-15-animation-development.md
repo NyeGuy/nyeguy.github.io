@@ -1,6 +1,6 @@
 ---
 title: "Animation Development"
-excerpt: "Animation development for television and Internet Series.<br/><img src='/images/500x300.png'>"
+excerpt: "Animation development for television and Internet Series.<br/><img src='/images/animationdev_header_01.png'>"
 permalink: /portfolio/animation-development
 collection: portfolio
 ---
