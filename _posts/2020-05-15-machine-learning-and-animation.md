@@ -7,14 +7,14 @@ tags:
   - business
   - technology
 ---
-
-Machine Learning and Animation
 As the tools become more accessible, neural networks may soon be driving the performance of characters
-A machine… can’t possibly… ?!?
+
+
 I find myself involved in conversations where I ask graphics artists if they feel threatened by AI (artificial intelligence). Many animators think that being in a "creative" occupation means that they are safe. For many, it's okay to think automation will wipe out auto-callers and Uber drivers, but keying a character performance is something that we won't have to worry about for a while.
 
 I used to be one of these people, but now, I'm not so sure.
-Fake it til’ ya Make it
+
+*Fake it til’ ya Make it*
 The internet continues to show us examples of “deep fakes”where mathematical image recognition models have allowed for the creation of fully manufactured digital characters. Upon viewing this, there is an initial reaction of "that's crazy," followed by a dismissive "wave of the hand." I think there is a misunderstanding what the neural network is really doing.
 
 It's easy to confuse this “puppeting” of Vlad Putin or Elon Musk as simply a real time one to one, like that of a performance capture system. Or that the video is is composited or mixed into the pixels in some way.
@@ -22,7 +22,7 @@ It's easy to confuse this “puppeting” of Vlad Putin or Elon Musk as simply a
 But this technology is actually generating an entirely new performance.
 
 
-Neural Networks
+*Neural Networks*
 Honestly, I have only just begun my journey to understand how neural networks work. In many ways they are still a black box of mathematics full of PhD level vocabulary that a humble unfrozen cave man animator like me can't wrap their mind around. I can’t tell the mathematical difference between a Lambert and a Phong, but I absolutely know the difference in the way they look and when to use them. Similarly, it will be hard for me to describe the calculations in a General Adversarial Network, but I’m starting to see the possibilities of what it can produce.
 
 With only a few weeks of reading - and the help of the classes like IPT@New York University (https://ml4a.github.io/classes/) - I'm fairly confident, that at it's core, neural networks use a whole lot of data, to learn how to make an input on one side come out as something generative on the other. It’s a system that makes guesses (or predictions) and the more data you cram into it, the better those guesses get.
