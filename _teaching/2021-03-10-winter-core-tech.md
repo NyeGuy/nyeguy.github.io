@@ -7,9 +7,9 @@ venue: "Savannah College of Art and Design, Interactive Design and Game Developm
 date: 2021-05-10
 location: "Savannah, GA, USA"
 ---
-This is a core curriculum course on the structure of game engines and blueprinting for the Unreal Engine. It follows a syllabus and structure developed by [Aram Cookson](https://www.scad.edu/academics/faculty/aram-cookson).
+This is a core curriculum course on the structure of game engines and blueprinting for the Unreal Engine.
 
-I used the curriculum and adapted it to define two projects for the students. The first was a first person camera dungeon explorer. The second project was a top down shooter with a playable character.
+I used the curriculum developed by [Aram Cookson](https://www.scad.edu/academics/faculty/aram-cookson) and adapted it to define two projects for the students. The first was a first person camera dungeon explorer. The second project was a top down shooter with a playable character.
 
 This is a selection of works from my most recent class' final project:
 
