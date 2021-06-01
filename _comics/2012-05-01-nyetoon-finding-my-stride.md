@@ -1,5 +1,5 @@
 ---
-title: "Finding My Stride"
+title: "Nyetoon: Finding My Stride"
 collection: comics
 permalink: /comics/2012-05-01-finding-my-stride
 ---

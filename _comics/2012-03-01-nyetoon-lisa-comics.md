@@ -1,5 +1,5 @@
 ---
-title: "Lisa Comics"
+title: "Nyetoon: Lisa Comics"
 collection: comics
 permalink: /comics/2012-03-01-nyetoon-lisa-comics
 ---

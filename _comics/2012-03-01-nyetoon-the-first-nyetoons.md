@@ -1,5 +1,5 @@
 ---
-title: "The First Nyetoons"
+title: "Nyetoon: The First Nyetoons"
 collection: comics
 permalink: /comics/2012-03-01-the-first-nyetoons
 ---

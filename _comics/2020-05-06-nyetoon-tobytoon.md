@@ -1,5 +1,5 @@
 ---
-title: "Tobytoon"
+title: "Nyetoon: Tobytoon"
 collection: comics
 permalink: /comics/2020-06-05-nyetoon-tobytoon
 ---
