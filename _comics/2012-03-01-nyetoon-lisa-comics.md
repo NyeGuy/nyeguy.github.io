@@ -2,9 +2,5 @@
 title: "Lisa Comics"
 collection: comics
 permalink: /comics/2012-03-01-nyetoon-lisa-comics
-date: 2012-03-01
 ---
-
-This was done in the early days of the pandemic.
-
 ![TobyToon](../images/comics/nyetoon/nyetoon_TobyToon_6.5.20_final-1.png)
