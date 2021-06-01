@@ -7,8 +7,9 @@ author_profile: true
 <img src="../images/recessionbear_header.png"></img>
 
 {% include base_path %}
-{% for post in site.comics reversed %}
-  {% include archive-talk.html %}
+
+{% for post in site.comics %}
+  {% include archive-single.html %}
 {% endfor %}
 
 
