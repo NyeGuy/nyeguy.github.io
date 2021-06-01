@@ -13,7 +13,7 @@ We use Unreal Engine and the animation blueprint system, using Autodesk Maya for
 
 This is the demo reel for Animation for Games.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wjj6BL3CYx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/wjj6BL3CYx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -21,7 +21,7 @@ This class is for game developers *and animators* who wish to understand how to 
 
 Here is the Final Project Presentation:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tAR6heWjgKE&t=259s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/tAR6heWjgKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 You can see the [course website at this link.]("https://blog.scad.edu/nwarburt/")
