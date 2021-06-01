@@ -8,4 +8,4 @@ date: 2021-05-15
 location: "Virtual"
 ---
 
-1234
+A mobile game design class partnership with SCADPro and Delta Airlines TechOps.

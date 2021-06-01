@@ -11,21 +11,14 @@ redirect_from:
 
 Education
 ======
-  * BFA Fine Arts, University of Pennsylvania, 1997
-  * MFA Computer Art, Academy of Art University, 2004
-    * Course Work:
-      * University of California, Los Angeles: Screen Writing
-      * Richard Williams Master Class, Viborg, Denmark: Animation
-      * Temple University, Rome: Art, Photography and History
+  * *BFA Fine Arts*, University of Pennsylvania, 1997
+  * *MFA Computer Art*, Academy of Art University, 2004
 
 Professional Experience
 ======
-  * Associate Chair, Interactive Design and Game Development, Savannah College of Art and Design, 2020 – present
-    * Educational Strategist and Assistant Manager for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
-    * Duties include: Educational Strategy and Co-Management for SCAD’s ITGM BA, BFA, MA and MFA Game Development Programs
-    * Chair of ITGM: Suanne Fu, Dean of School of Digital Media: Max Almy
-
-  * Computer Graphics Consultant, Box Rocket Studio, 2019 - present
+  * *Associate Chair, Interactive Design and Game Development,* Savannah College of Art and Design, 2020 – present
+    * Educational Strategist and Assistant Manager for SCAD’s ITGM BA, BFA, MA and MFA Interactive Design and Game Development Programs
+  * *Computer Graphics Consultant,* Box Rocket Studio, 2019 - present
     *  Animation, Content Strategy, Game Development, Real Time Systems and Workflows.
 
 Teaching and Lectures
