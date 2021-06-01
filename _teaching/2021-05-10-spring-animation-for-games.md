@@ -11,13 +11,18 @@ This is a course designed to teach the process of building animation systems for
 
 We use Unreal Engine and the animation blueprint system, using Autodesk Maya for animation keying, retargeting and clean up. The content currently reflects 3d animated workflow, but I have hopes of integrating 2d animation systems into future content.
 
-This is my most recent class' final project:
+This is the demo reel for Animation for Games.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhdneVcG7FU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wjj6BL3CYx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 This class is for game developers *and animators* who wish to understand how to build real time animation systems. I try to build the class so it’s accessible to animators with no development experience, but extensible so those with unreal blueprint experience can learn animation systems for NPC’s and combat. Students start by individually building a side scrolling platformer, and can potentially move into directed or collaborative groups for a third person player RPG type project.
+
+Here is the Final Project Presentation:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=tAR6heWjgKE&t=259s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 You can see the [course website at this link.]("https://blog.scad.edu/nwarburt/")
 

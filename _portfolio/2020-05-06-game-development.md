@@ -1,6 +1,6 @@
 ---
 title: "Game Development"
-excerpt: "Games and prototypes.<br/><img src='/images/500x300.png'>"
+excerpt: "Games and prototypes.<br/><img src='/images/gaming_header_01.png'>"
 permalink: /portfolio/game-development
 collection: portfolio
 ---
