@@ -1,12 +1,11 @@
 # main links links
 main:
 
-
+  - title: "CV"
+    url: /cv/
+    
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
 
   - title: "Blog"
     url: /year-archive/
@@ -14,11 +13,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Comics"
     url: /comics/
 
   #- #title: "Publications"
     #url: /publications/
+
+  #- title: "Talks"
+    #  url: /talks/
