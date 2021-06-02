@@ -1,6 +1,6 @@
 ---
 title: 'Virtual Beings: Responsive Characters with Intent and Action'
-date: 2020-05-01
+date: 2022-05-01
 permalink: /posts/2020/05/virtual-beings/
 tags:
   - bots

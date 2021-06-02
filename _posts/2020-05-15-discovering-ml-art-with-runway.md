@@ -1,23 +1,11 @@
 ---
-title: 'Which Game Engine Should I Use?'
-date: 2199-01-01
-permalink: /posts/2021/07/which-game-engine-should-i-use/
+title: 'Discovering ML Art with Runway'
+date: 2020-01-01
+permalink: /posts/2020/07/discovering-ml-art-with-runway/
 tags:
   - education
   - business
   - technology
 ---
 
-
-
-
-
-Unreal Engine
-
-Unity
-
-Godot
-
-The Gateway Engines
-
-Web
+Playing with Runway ML.

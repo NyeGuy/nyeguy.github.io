@@ -1,6 +1,6 @@
 ---
 title: 'Machine Learning and Animation'
-date: 2199-01-01
+date: 2020-05-15
 permalink: /posts/2021/07/discovering-ml-art-with-runway/
 tags:
   - education
