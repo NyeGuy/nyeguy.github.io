@@ -2,7 +2,7 @@
 title: "ITGM 310: Animation for Games"
 collection: teaching
 type: "Studio"
-permalink: /teaching/2021-spring-animation-for-games
+permalink: /teaching/2021-animation-for-games
 venue: "Savannah College of Art and Design, Interactive Design and Game Development"
 date: 2021-05-20
 location: "Savannah, GA, USA"
