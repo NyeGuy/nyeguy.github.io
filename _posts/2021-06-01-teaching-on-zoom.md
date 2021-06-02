@@ -1,6 +1,6 @@
 ---
 title: 'Teaching with Zoom Burnout: Strategies for keeping college level students engaged'
-date: 2020-05-10
+date: 2021-06-01
 permalink: /posts/2021/06/teaching-on-zoom/
 tags:
   - zoom
