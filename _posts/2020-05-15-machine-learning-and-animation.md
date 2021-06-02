@@ -7,7 +7,7 @@ tags:
   - business
   - technology
 ---
-As the tools become more accessible, neural networks may soon be driving the performance of characters
+As the tools become more accessible, neural networks will increasingly drive the performance of real time characters.
 
 
 I find myself involved in conversations where I ask graphics artists if they feel threatened by AI (artificial intelligence). Many animators think that being in a "creative" occupation means that they are safe. For many, it's okay to think automation will wipe out auto-callers and Uber drivers, but keying a character performance is something that we won't have to worry about for a while.

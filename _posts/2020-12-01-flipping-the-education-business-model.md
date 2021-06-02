@@ -7,7 +7,8 @@ tags:
   - business
   - technology
 ---
-The enducational business model has flipped. Will Universities catch on?
+The educational business model is flipping. Will the university system really catch on?
+
 
 the business model is flipped.
 No where is this more true in computer graphics and real time development systems.

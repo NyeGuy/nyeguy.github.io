@@ -7,6 +7,9 @@ tags:
   - business
   - technology
 ---
+Segmentation Maps show an interesting workflow technique for artists to weird AI. The problem is art datasets.
+
+
 
 A few months back, NVIDIA showed off a product called GauGAN. Using a pair of neural networks, (called general adversarial networks, or GAN) they trained a system to recognize 100’s of thousands of images of outdoor pictures. Armed with this network, and trained with the enormous data set, they created a Graphical User Interface, or GUI. Users could create “segmentation maps” that allow anyone to simply sketch out the merest indication of the landscape and have it recreated with the AI’s best guess.
 

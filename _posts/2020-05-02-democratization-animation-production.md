@@ -7,10 +7,10 @@ tags:
   - networks
   - production
 ---
-
-
 Imagine the hundreds of people that a computer graphics animated feature requires.
 Now imagine that same labor done with a handful of artists.
+
+
 
 What if...
 Instead of a pipeline of specialized workers, there were a handful of people who are unique multi-talented “librarians.” Like DJ’s who sample electronic music, animated storytelling will mix streams of data, creating visualizations for a variety of new platforms.

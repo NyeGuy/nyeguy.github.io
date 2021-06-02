@@ -7,7 +7,7 @@ tags:
   - education
   - technology
 ---
-As a new teacher, starting in the pandemic, I discovered I had to become keenly aware of how much cognitive capacity college students have for learning through zoom.
+As a new teacher, (and starting during the pandemic) I discovered I had to become keenly aware of how much cognitive capacity college students had for learning through zoom.
 
 
 

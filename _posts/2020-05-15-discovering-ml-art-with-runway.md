@@ -8,4 +8,4 @@ tags:
   - technology
 ---
 
-Playing with Runway ML.
+My summertime love afair with AI, and the software that made it possible. 
