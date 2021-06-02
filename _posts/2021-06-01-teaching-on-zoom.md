@@ -1,5 +1,5 @@
 ---
-title: 'Teaching with Zoom Burnout: Strategies for keeping college level students engaged'
+title: 'Zoomed Out: Measuring College Level Engagement in Virtual Teaching'
 date: 2021-06-01
 permalink: /posts/2021/06/teaching-on-zoom/
 tags:
@@ -7,6 +7,10 @@ tags:
   - education
   - technology
 ---
+As a new teacher, starting in the pandemic, I discovered I had to become keenly aware of how much cognitive capacity college students have for learning through zoom.
+
+
+
 In the fall of 2020 I began teaching at the Savannah College of Art and Design in their interactive design and game development program. Ever the best of timing, I began teaching during the corona virus pandemic. Not only was I thrown to the perverbial wolves, being on zoom was exhausting, frustrating, confusing and difficult. I started my first week in full optimism and energy, only to be smacked around with black boxes for students refusals to put cameras on. The quality of work plummeted, the number of "dog ate my - software crash" excuses sky rocketed. Depression was rampant. A group hated me, another group had multiple crying epsidoes. I had a few I really cared about, - yes, a few that I took with me until the end. But, I admit it, due to their absolute refusal to learn, most of my first class failed. The grade didn't reflect that, they moved on of course, but what should be injected into their head vs what they actually were able to process was a huge difference.
 
 I vowed the next quarter would be different.

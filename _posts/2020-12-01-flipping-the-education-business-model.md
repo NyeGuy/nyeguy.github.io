@@ -7,8 +7,8 @@ tags:
   - business
   - technology
 ---
+The enducational business model has flipped. Will Universities catch on?
 
-Scott Galloway - PostCorona
 the business model is flipped.
 No where is this more true in computer graphics and real time development systems.
 
