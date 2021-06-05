@@ -7,5 +7,4 @@ tags:
   - business
   - technology
 ---
-
 My summertime love afair with AI, and the software that made it possible.

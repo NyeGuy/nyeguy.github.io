@@ -13,12 +13,21 @@ The educational business model is flipping. Will the university system really ca
 the business model is flipped.
 No where is this more true in computer graphics and real time development systems.
 
-The current business model for an educational institution looks like this.
+The current business model for an educational institution looks like this
+
+
 
 students pay money for the shepparding of a series of classes into a curriculum.
 The consulting model looks like this.
 
+
+
+
 This hybrid model should be something akin to -
+
+
+
+
 
 Myself and Professor Galloway are not the only ones who recognize this trend.
 Google Certificates

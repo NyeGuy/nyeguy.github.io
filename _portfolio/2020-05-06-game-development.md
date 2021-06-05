@@ -54,11 +54,11 @@ Here is the trailer:
 
 
 ### Agent Kickback (2015)
-![GameDev | Agent Kickback 01](https://nyeguy.github.io/images/portfolio/gamedev/AK_header.png)
+![Agent Kickback 01](https://nyeguy.github.io/images/portfolio/gamedev/AK_header.png)
 As a kid, I grew up playing dozens of plat-formers on a commodore 64. For a long time, I imagined a side scrolling open world plat-former about a secret agent, who had to uncover a government alien conspiracy. The mechanic of the game was based on a fun “Kick Back” that the main character had when he fired his plasma cannon.
 
-![GameDev | Agent Kickback 01](https://nyeguy.github.io/images/portfolio/gamedev/AK_01.png)
-![GameDev | Agent Kickback 01](https://nyeguy.github.io/images/portfolio/gamedev/AK_03.png)
+![Agent Kickback 02](https://nyeguy.github.io/images/portfolio/gamedev/AK_01.png)
+![Agent Kickback 03](https://nyeguy.github.io/images/portfolio/gamedev/AK_03.png)
 
 I prototyped and built in the HTML5 engine construct 2, and created a system for fractioning and designing levels, as well as a map and mission system. I built all of the art in Adobe Photoshop and After Effects. I particularly like the art style as it felt creepy and alien like but still fun and cartoony. The awesomely talented Jennifer Kes Remmington did the music track, which I feel hits the mood of the character.
 

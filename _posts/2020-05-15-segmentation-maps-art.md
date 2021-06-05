@@ -7,7 +7,7 @@ tags:
   - business
   - technology
 ---
-Segmentation Maps show an interesting workflow technique for artists to weird AI. The problem is art datasets.
+Segmentation Maps show an interesting workflow technique for artists to weird AI. The problem is finding legal art datasets.
 
 
 
