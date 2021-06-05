@@ -12,7 +12,7 @@ Otherwise, have fun exploring some of the nonsense below.
 
 ### Bloopco (2015)
 
-![GameDev | Bloopco](images\gamedev\blooco.png)
+![GameDev | Bloopco](..\images\gamedev\blooco.png)
 In early 2015, I was prototyping game mechanics that I believed had the potential for anxiety reduction. My technical partner Josh Reynolds and I, began prototyping a biofeedback game mechanic. We discovered that by detecting heart-rate input, we could recognize a deep mindful breath. This became the basis for Bloopco, a health and mindfulness game company. We began building our first game, deciding to develop for the newly launched Apple Watch. Using zen and archery as a narrative backdrop, we built a game called Way of the Bow.
 
 With medical consulting from Sarah Lopez, a USC physician and researcher, and art concepts from Bill Green, we were able to complete and launch the basic game on the Apple Store in the fall of 2015.
@@ -22,7 +22,7 @@ In addition to UX design and project management, I did business development, fun
 Way of the Bow was depreciated in 2017.
 <br>
 
-![GameDev | Way of the Bow](images\gamedev\waybow.png)
+![GameDev | Way of the Bow](..\images\gamedev\waybow.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bGUDj-gJw5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,8 +30,8 @@ Way of the Bow was depreciated in 2017.
 
 In 2016, I was still working with heart rate gaming from my previous start up Bloopco. By chance, I found an unusual audience, golf. Working with golfers, I pivoted the Bloopco technology into PulseCat, a stress management system for athletes. After changing the graphics and branding, I integrated the data into a database system for integration into work out systems.
 
-![GameDev | Bloopco](images\gamedev\blooco_concept_01.png)
-![GameDev | Bloopco](images\gamedev\blooco_concept_03-1.png)
+![GameDev | Bloopco](..\images\gamedev\blooco_concept_01.png)
+![GameDev | Bloopco](..\images\gamedev\blooco_concept_03-1.png)
 
 After 18 months of work and research, and some convincing test cases, I ran out of money and energy. Below are some sketches and concepting. I demo the prototype below.
 
@@ -41,7 +41,7 @@ After 18 months of work and research, and some convincing test cases, I ran out 
 
 Commander Cluck is a procedural generated side scrolling jump-flap mechanic game. I adopted the simple endless runner to include a jump with a flap ‘joust-like’ descent. I created a space rooster adventurer to match the character’s mechanic and created a world of bad guy aliens, called Zorcanians, for him to squish.
 
-![GameDev | Commander Cluck: Haephaesteus](images\gamedev\cluck_haephaesteus.png)
+![GameDev | Commander Cluck: Haephaesteus](..\images\gamedev\cluck_haephaesteus.png)
 ![GameDev | Commander Cluck: 01](images\gamedev\CommanderCluck1.png)
 ![GameDev | Commander Cluck: 01](images\gamedev\cluck02.png)
 ![GameDev | Commander Cluck: Lunara](images\gamedev\lunara.png)
