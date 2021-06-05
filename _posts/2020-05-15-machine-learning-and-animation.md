@@ -37,6 +37,10 @@ In 1982, to create the illusion that 3d objects moved across the screen, the ani
 This image has an empty alt attribute; its file name is https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faa4445fa-526d-4fdc-b0f8-1533a0cb6ed0_920x380.png
 The curve editor, now commonplace in animation software like Maya and Blender, took 15 years to imagine and develop. It is a way for artists to visualize the acceleration data of 3D objects, and a way for those artists to communicate their intent to the software.
 
+My Summer Love affair with RunwayML
+I loved it, I had to let it go.
+
+
 Whether the data is from captured human performance or “hand keyed,” curve editors are the common language of motion data in the animation world.
 
 Animator Intent = X, Animated Character = Y
