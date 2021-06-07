@@ -19,7 +19,7 @@ In addition to UX design and project management, I did business development, fun
 Way of the Bow was depreciated in 2017.
 <br>
 
-![GameDev | Way of the Bow](https://nyeguy.github.io/images/portfolio/gamedev/waybow.png)\
+![Way of the Bow](https://nyeguy.github.io/images/portfolio/gamedev/waybow.png)\
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bGUDj-gJw5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
