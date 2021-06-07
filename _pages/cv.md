@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+Bio
+===
+Aneurin Warburton (Nye)
+
+I am the Associate Chair of Interactive Design and Game Development at [(SCAD) the Savannah College of Art and Design.](https://www.scad.edu/academics/programs/interactive-design-and-game-development) At SCAD, I research and teach [Animation for Games,](http://blog.scad.edu/nwarburt) a class that focuses on the development of real time [characters, game mechanics, and AI.](https://docs.unrealengine.com/en-US/AnimatingObjects/SkeletalMeshAnimation/StateMachines/Overview/index.html) I also teach a variety of classes in game development and with [SCAD's innovation program.](https://www.scad.edu/about/scadpro) In addition to teaching, as associate chair, I am responsible for the strategy and development of [SCAD Games Studio,](https://scaditgm.blog/scad-games-studio/) where I facilitate the workflow and deployment of student games.
+
+![Nye Warburton](images\one.jpg)
+
+Prior to my work at SCAD, my career spanned animated television, national commercials, independent game development, and [30+ feature films](https://www.imdb.com/name/nm1100970/) including *Monster House, Battleship, Avengers, Men in Black III,* and *Oblivion.* Working with startups, I developed projects with *Disney Imagineering, Pearson Education, Comedy Central, Sony Television Games,* and medical professionals from *USC* and *Cedars-Sinai.* I currently consult on animation, content strategy, game development and real time projects with [Box Rocket Studio.](https://boxrocket.studio) I also draw comics, play with machine learning, and develop real time/game prototypes.
+
+
 
 Education
 ======
@@ -69,7 +80,7 @@ Professional Computer Graphics and Animation Activity
   * *Senior Previsualization Artist,* Star Trek Discovery, CBS	Pixomondo, Los Angeles, CA, 2018
   * *Lead Previsualization Artist,* Future Future	Pixomondo, Los Angeles, CA, 2018		
   * *Previsualization/Layout Supervisor,* Skyhunter	Pixomondo, Los Angeles, CA, 2017
-  * *Animator,* Nagano, Microsoft	Digital Domain, Los Angeles, CA, 2014, 2017	
+  * *Animator,* Nagano, Microsoft	Digital Domain, Los Angeles, CA, 2014, 2017
   * *Senior Previsualization Artist,* Oblivion, Universtal Pictures	The Third Floor Inc., Los Angeles, CA, 2014
   * *Senior Previsualization Artist,* X-Men: Days of Future Past, Fox Features	The Third Floor Inc., Los Angeles, CA, 2014
   * *Senior Previsualization Artist,* Godzilla, Legendary/Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2014
