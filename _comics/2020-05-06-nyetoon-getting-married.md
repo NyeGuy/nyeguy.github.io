@@ -1,8 +1,15 @@
 ---
-title: "Nyetoon: Getting married"
+title: "Nyetoon: Getting Married"
 collection: comics
-permalink: /comics/2020-06-05-nyetoon-taking-break-meh
+permalink: /comics/2020-06-05-nyetoon-getting-married
 ---
-Getting Married
+Getting Married and other things...
 
-![TobyToon](../images/comics/nyetoon/nyetoon_TobyToon_6.5.20_final-1.png)
+It's Positive
+![It's Positive](../images/comics/nyetoon/Nyetoon_itspositive02.png)
+Notes on South Africa
+![Notes on South Africa](../images/comics/nyetoon/NYETOON_NotesonSA_02.jpg)
+Safari
+![Safari](../images/comics/nyetoon/NYETOON_safari_01.jpg)
+Yoga
+![Yoga](../images/comics/nyetoon/Nyetoon_Yoga01-scaled.jpg)

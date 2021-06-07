@@ -3,6 +3,9 @@ title: "Nyetoon: Net Neutrality"
 collection: comics
 permalink: /comics/2020-06-05-nyetoon-net-neutrality
 ---
-Net Neutrality
+Set Data free...
 
-![TobyToon](../images/comics/nyetoon/nyetoon_TobyToon_6.5.20_final-1.png)
+![Net Neutrality 01](../images/comics/nyetoon/NYETOON_NetNeutrality_01.jpg)
+![Net Neutrality 01](../images/comics/nyetoon/NYETOON_NetNeutrality_02.jpg)
+![Net Neutrality 01](../images/comics/nyetoon/NYETOON_NetNeutrality_03.jpg)
+![Net Neutrality 01](../images/comics/nyetoon/NYETOON_NetNeutrality_04.jpg)
