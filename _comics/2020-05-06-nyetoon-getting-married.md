@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: Getting Married"
 collection: comics
-permalink: /comics/2020-06-05-nyetoon-getting-married
+permalink: /comics/2020-05-06-nyetoon-getting-married
 ---
 Getting Married and other things...
 
