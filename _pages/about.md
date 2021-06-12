@@ -7,22 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I spent 20 years animating for companies. Now, my research is focused on real time characters and educational systems.
-Essentially, I believe characters will decide (for themselves) how to move.
+![Nye Warburton](images\nyetoon_header.png)
+I spent a long time drawing, doing computer graphics, and animating content in movies and games. Now, I have this crazy idea I'm chasing. 
+I think it might be possible for animated characters to start moving themselves.
 
-If you are interested, read some of my thoughts in my blog, it's mainly about technology and animation. I believe AI and networks will change the way we make animated content.
+If you are interested, read some of my thoughts in my blog. Or, check out some of the teaching I do.
 
-Or, check out some of the teaching I do at SCAD in their Interactive Design and Game Development program.
-
-You can look at some of my past projects in my portfolio. There's machine learning stuff, or some games I've made. Read about the movies I worked on, etc. Or if you want, check out some of the comics I've scribbled for fun over the years. That's, of course, in the "comics" section.
+You can look at some of my past projects in my portfolio. There's machine learning stuff, or some games I've made. Read about the movies I worked on, etc. Or if you want, check out some of the comics I've scribbled for fun over the years.
 
 By the way, if you are an artist or technologist from any discipline, I welcome new ideas.
 I have a wide range of interests about all kinds of stuff, so just say 'hello'.
-
-I never tweet, I'm just one of those doom scrolling types. But my DM's are open. [@nyewarburton](http://twitter.com/nyewarburton)
+I never tweet, I'm just one of those doom scrolling types. But my DM's are open.
+<br>
+[@nyewarburton](http://twitter.com/nyewarburton)
 
 Thanks for coming by!
-![Nye Warburton](images\nyetoon_header.png)
+
 
 
 
