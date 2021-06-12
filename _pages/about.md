@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 ![Nye Warburton](images\nyetoon_header.png)
-I spent a long time drawing, doing computer graphics, and animating content in movies and games. Now, I have this crazy idea I'm chasing. <br>
-*I think it might be possible for animated characters to start moving themselves.*
+I spent a a long time as an animator. Now, call me crazy, but I'm starting to think characters will animate themselves.
 
-If you are interested, ![read some of my thoughts in my blog.]("https://nyeguy.github.io/year-archive/")
-Or, ![check out some of the classes I teach.]("https://nyeguy.github.io/teaching/") 
+If you are interested, [read some of my thoughts in my blog.](https://nyeguy.github.io/year-archive/)
+Or, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
 
-You can look at some of my past projects in my portfolio. [There's machine learning stuff,] or [some games I've made.] Read about [the movies I worked on, etc.] Or if you want, [check out some of the comics I've scribbled for fun over the years.]
+You can look at some of my past projects in my portfolio. There's machine learning stuff, or some games I've made. Read about [the movies I worked on, etc. Or if you want, check out some of the comics I've scribbled for fun over the years.
 <br>
 I have a wide range of interests about all kinds of stuff, so feel free to say 'hello'.
 I suppose I am on twitter.  I never tweet, I'm one of those "doom scrolling types," but my DM's are always open.
