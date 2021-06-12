@@ -9,9 +9,6 @@ tags:
 ---
 
 Ghenghis Kahn - Making of the Modern World
-
-
-
 Wealth of Networks
 Brick by Brick
 The Mystery of Capital
