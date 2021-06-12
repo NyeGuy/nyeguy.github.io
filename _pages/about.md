@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, My name is Nye."
+title: "Hi there, my name is Nye."
 excerpt: "Nye Warburton is an animator and creative technologist."
 author_profile: true
 redirect_from:
@@ -8,21 +8,23 @@ redirect_from:
   - /about.html
 ---
 ![Nye Warburton](images\nyetoon_header.png)
-I spent a a long time as an animator. Now, call me crazy, but I'm starting to think characters will animate themselves.
+<br>
+I am an animator, and worked as a contract animator for many years. <br>
+Now ... call me crazy, but I'm starting to [think characters will start to animate themselves.](https://nyeguy.github.io/year-archive/drafts/2020-05-02-animation-3)
 
-If you are interested, [read some of my thoughts in my blog.](https://nyeguy.github.io/year-archive/)
-Or, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
-
-You can look at some of my past projects in my portfolio. There's machine learning stuff, or some games I've made. Read about [the movies I worked on, etc. Or if you want, check out some of the comics I've scribbled for fun over the years.
+If you are interested in this line of thinking, [read some of my posts in my blog.](https://nyeguy.github.io/year-archive/)
+Or, if real time animation interests you, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
+<br>
+You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/2020-05-01-machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/2020-05-06-game-development) Or learn about [the movies I worked on](https://nyeguy.github.io/portfolio/2020-05-10-previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/teaching/) for fun over the years.
 <br>
 I have a wide range of interests about all kinds of stuff, so feel free to say 'hello'.
-I suppose I am on twitter.  I never tweet, I'm one of those "doom scrolling types," but my DM's are always open.
+I'm on twitter [@nyewarburton](http://twitter.com/nyewarburton). My DM's are open.
 <br>
-[@nyewarburton](http://twitter.com/nyewarburton)
 
 Thanks for coming by!
 
-
+<br>
+<br>
 
 
 
