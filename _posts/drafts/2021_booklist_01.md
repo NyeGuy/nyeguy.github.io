@@ -12,8 +12,15 @@ Ghenghis Kahn - Making of the Modern World
 Wealth of Networks
 Brick by Brick
 The Mystery of Capital
-Metatations
+Meditations
 Superintelligence
+Designing Games
+The Animator's Survival Kit
+We were nine years in power
+
+Drucker
+McCluen
+Sylvester
 
 
 
