@@ -1,7 +1,7 @@
 ---
 title: 'Flipping the Education Business Model'
-date: 2100-12-01
-permalink: /posts/2021/07/flipping-the-education-business-model/
+date: 2022-12-01
+permalink: /posts/2022/07/flipping-the-education-business-model/
 tags:
   - education
   - business

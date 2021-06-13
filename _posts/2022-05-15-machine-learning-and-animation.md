@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning and Animation'
-date: 2022-05-15
-permalink: /posts/2022/07/2020-05-15-machine-learning-and-animation/
+date: 2020-05-15
+permalink: /posts/2021/07/2020-05-15-machine-learning-and-animation/
 tags:
   - education
   - business
