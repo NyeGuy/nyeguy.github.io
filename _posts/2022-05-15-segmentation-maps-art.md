@@ -1,7 +1,7 @@
 ---
 title: 'Segmentation Maps: How Artists paint in AI'
-date: 2020-05-10
-permalink: /posts/2021/07/segmentation-maps-art/
+date: 2022-05-10
+permalink: /posts/2022/07/segmentation-maps-art/
 tags:
   - education
   - business

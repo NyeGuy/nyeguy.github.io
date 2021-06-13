@@ -1,7 +1,7 @@
 ---
 title: 'The Democratization of Animation Production'
-date: 2020-05-02
-permalink: /posts/2012/08/democratization-animation-production/
+date: 2022-05-02
+permalink: /posts/2022/08/democratization-animation-production/
 tags:
   - animation
   - networks

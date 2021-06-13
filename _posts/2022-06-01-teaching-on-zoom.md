@@ -1,7 +1,7 @@
 ---
 title: 'Zoomed Out: Measuring College Level Engagement in Virtual Teaching'
-date: 2021-06-01
-permalink: /posts/2021/06/teaching-on-zoom/
+date: 2022-06-01
+permalink: /posts/2022/06/teaching-on-zoom/
 tags:
   - zoom
   - education
