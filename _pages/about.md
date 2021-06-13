@@ -9,15 +9,15 @@ redirect_from:
 ---
 ![Nye Warburton](images\nyetoon_header.png)
 <br>
-I am an animator, and worked as a contract animator for many years. <br>
-Now ... call me crazy, but I'm starting to [think characters will start to animate themselves.](https://nyeguy.github.io/year-archive/drafts/2020-05-02-animation-3)
-
-If you are interested in this line of thinking, [read some of my posts in my blog.](https://nyeguy.github.io/year-archive/)
+I am an animator. I worked as a contract animator for many years. <br>
+Now, my creative focus is spent researching and teaching animation systems for real time development.
+<br>
+Feel free to [read some of the posts in my blog.](https://nyeguy.github.io/year-archive/)
 Or, if real time animation interests you, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
 <br>
-You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/2020-05-01-machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/2020-05-06-game-development) Or learn about [the movies I worked on](https://nyeguy.github.io/portfolio/2020-05-10-previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/teaching/) for fun over the years.
+You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/2020-05-01-machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/2020-05-06-game-development) You can learn about [the movies I worked on](https://nyeguy.github.io/portfolio/2020-05-10-previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/teaching/) for fun over the years.
 <br>
-I have a wide range of interests about all kinds of stuff, so feel free to say 'hello'.
+I have a wide range of interests about all kinds of stuff. Please feel free to say 'hello'.
 I'm on twitter [@nyewarburton](http://twitter.com/nyewarburton). My DM's are open.
 <br>
 
