@@ -1,7 +1,7 @@
 ---
 title: "Misc Comics: Death"
 collection: comics
-permalink: /comics/2012-03-01-death
+permalink: /comics/2012-03-02-death
 ---
 I played with the idea of death a bit.
 
