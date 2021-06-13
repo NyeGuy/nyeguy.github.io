@@ -10,6 +10,8 @@ tags:
 The educational business model is flipping. Will the university system really catch on?
 
 
+*this is merely the outline of a future blog post, work in progress, thx - mgmt*
+
 the business model is flipped.
 No where is this more true in computer graphics and real time development systems.
 
@@ -24,10 +26,6 @@ The consulting model looks like this.
 
 
 This hybrid model should be something akin to -
-
-
-
-
 
 Myself and Professor Galloway are not the only ones who recognize this trend.
 Google Certificates
