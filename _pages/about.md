@@ -12,16 +12,19 @@ redirect_from:
 I am an animator. I worked as a contract animator for many years. <br>
 Now, my creative focus is spent researching and teaching animation systems for real time development.
 <br>
+
 Feel free to [read some of the posts in my blog.](https://nyeguy.github.io/year-archive/)
 Or, if real time animation interests you, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
 <br>
-You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/2020-05-01-machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/2020-05-06-game-development) You can learn about [the movies I worked on](https://nyeguy.github.io/portfolio/2020-05-10-previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/teaching/) for fun over the years.
-<br>
-I have a wide range of interests about all kinds of stuff. Please feel free to say 'hello'.
-I'm on twitter [@nyewarburton](http://twitter.com/nyewarburton). My DM's are open.
+
+You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/2020-05-01-machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/2020-05-06-game-development) You can learn about [the movies I worked on.](https://nyeguy.github.io/portfolio/2020-05-10-previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/teaching/) for fun over the years.
 <br>
 
-Thanks for coming by!
+I have a wide range of interests about all kinds of stuff. Feel free to say *"hello."*
+My social links are in the "follow" button.
+<br>
+
+Thanks for visiting!
 
 <br>
 <br>
