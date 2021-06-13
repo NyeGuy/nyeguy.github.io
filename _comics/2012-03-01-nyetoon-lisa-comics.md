@@ -10,6 +10,6 @@ Watching Game of Thrones with Lisa
 My Relationship with Lisa
 ![Relationship](../images/comics/nyetoon/NYETOON_relationship_01.jpg)
 Going Out in Santa Monica
-![Santa Monica](../images/comics/nyetoon/Nyetoon_SantaMonica_01.jpg)
+![Santa Monica](../images/comics/nyetoon/Nyetoon_SantaMonica_02.jpg)
 Shower Math
 ![Shower Math](../images/comics/nyetoon/Nyetoon_shower_03-scaled.jpg)
