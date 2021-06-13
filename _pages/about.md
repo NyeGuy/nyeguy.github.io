@@ -17,7 +17,7 @@ Feel free to [read some of the posts in my blog.](https://nyeguy.github.io/year-
 Or, if real time animation interests you, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
 <br>
 
-You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/2020-05-01-machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/2020-05-06-game-development) You can learn about [the movies I worked on.](https://nyeguy.github.io/portfolio/2020-05-10-previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/teaching/) for fun over the years.
+You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/game-development) You can learn about [the movies I worked on.](https://nyeguy.github.io/portfolio/previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/comics/) over the years.
 <br>
 
 I have a wide range of interests about all kinds of stuff. Feel free to say *"hello."*
