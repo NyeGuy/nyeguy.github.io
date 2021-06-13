@@ -1,7 +1,7 @@
 ---
 title: 'Machine Learning and Animation'
 date: 2020-05-15
-permalink: /posts/2021/07/discovering-ml-art-with-runway/
+permalink: /posts/2021/07/2020-05-15-machine-learning-and-animation/
 tags:
   - education
   - business

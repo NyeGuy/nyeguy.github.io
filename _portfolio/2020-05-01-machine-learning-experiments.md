@@ -5,7 +5,7 @@ permalink: /portfolio/machine-learning-experiments
 collection: portfolio
 ---
 
-AI is rapidly advancing into computer graphics. While it is still somewhat early for these technologies to be easily accessible to the artist, within a short period of time we will find ourselves experiencing a boom of productive creation. For more on my thoughts on the evolution of artificial intelligence in computer graphics, please see my post here.
+AI is rapidly advancing into computer graphics. While it is still somewhat early for these technologies to be easily accessible to the artist, within a short period of time we will find ourselves experiencing a boom of productive creation. For more on my thoughts on the evolution of artificial intelligence in animation, [please see my post here.](http://nyeguy.github.io/posts/2021/07/2020-05-15-machine-learning-and-animation)
 
 Otherwise, have fun exploring some of the nonsense below.  
 
