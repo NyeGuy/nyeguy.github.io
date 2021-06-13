@@ -7,19 +7,5 @@ collection: portfolio
 
 Previsualization
 
-
-### ShatnerGAN
-
-For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
-<br>
-Software: 4K Video Downloader, Autocrop, and RunwayML
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Put a GAN  on it! - Stealing Beyonce's Motion Data
-
-For whatever reason, I spent a week ripping Captain Kirk shots from the original Star Trek series and training StyleGAN2 from NVidia. This experiment had 15000 close ups of James T Kirk, and the model was trained for 5000 steps.
-<br>
-Software: 4K Video Downloader, Autocrop, and RunwayML
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dgh5BOQc080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I am currently updating this page.
+Until I have content ready, please visit my [IMBD here.](https://www.imdb.com/name/nm1100970/)
