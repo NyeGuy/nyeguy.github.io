@@ -24,6 +24,8 @@ I have a wide range of interests about all kinds of stuff. Feel free to say *"he
 My social links are in the "follow" button.
 <br>
 
+A quick note - I am rebuilding my entire site, which means some sections are incomplete. Please excuse missing links, etc. 
+
 Thanks for visiting!
 
 <br>
