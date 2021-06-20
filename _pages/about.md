@@ -9,12 +9,11 @@ redirect_from:
 ---
 ![Nye Warburton](images\nyetoon_header.png)
 <br>
-I am an animator. I worked as a contract animator for many years. <br>
-Now, my creative focus is spent researching and teaching animation systems for real time development.
+I am an animator, educator and computer graphics researcher. For many years, I worked as a contract animator and visualization artist on a number of high profile projects. I was also involved in several game and real time start ups. Now, I spend a lot of time thinking about how artists and animators will use automation tools and networked technology.
 <br>
 
 Feel free to [read some of the posts in my blog.](https://nyeguy.github.io/year-archive/)
-Or, if real time animation interests you, [check out some of the classes I teach.](https://nyeguy.github.io/teaching/)
+Or, if real time animation interests you, [check out some of the classes I teach at SCAD.](https://nyeguy.github.io/teaching/)
 <br>
 
 You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/game-development) You can learn about [the movies I worked on.](https://nyeguy.github.io/portfolio/previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/comics/) over the years.
@@ -24,7 +23,7 @@ I have a wide range of interests about all kinds of stuff. Feel free to say *"he
 My social links are in the "follow" button.
 <br>
 
-A quick note - I am rebuilding my entire site, which means some sections are incomplete. Please excuse missing links, etc. 
+A quick note - I am rebuilding my entire site, which means some sections are incomplete. Please excuse missing links, etc.
 
 Thanks for visiting!
 
