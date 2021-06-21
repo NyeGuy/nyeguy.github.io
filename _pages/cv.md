@@ -14,8 +14,6 @@ redirect_from:
 
 I am the Associate Chair of Interactive Design and Game Development at [(SCAD) the Savannah College of Art and Design.](https://www.scad.edu/academics/programs/interactive-design-and-game-development) At SCAD, I research and teach [Animation for Games,](http://blog.scad.edu/nwarburt) a class that focuses on the development of real time [characters, game mechanics, and AI.](https://docs.unrealengine.com/en-US/AnimatingObjects/SkeletalMeshAnimation/StateMachines/Overview/index.html) I also teach a variety of classes in game development and with [SCAD's innovation program.](https://www.scad.edu/about/scadpro) In addition to teaching, as associate chair, I am responsible for the strategy and development of [SCAD Games Studio,](https://scaditgm.blog/scad-games-studio/) where I facilitate the workflow and deployment of student games.
 <br>
-![Nye Warburton](https://nyeguy.github.io/images/one.jpg)
-<br>
 Prior to my work at SCAD, my career spanned animated television, national commercials, independent game development, and [30+ feature films](https://www.imdb.com/name/nm1100970/) including *Monster House, Battleship, Avengers, Men in Black III,* and *Oblivion.* Working with startups, I developed projects with *Disney Imagineering, Pearson Education, Comedy Central, Sony Television Games,* and medical professionals from *USC* and *Cedars-Sinai.* I currently consult on animation, content strategy, game development and real time projects with [Box Rocket Studio.](https://boxrocket.studio) I also draw comics, play with machine learning, and develop real time/game prototypes.
 <br>
 
@@ -23,12 +21,15 @@ Prior to my work at SCAD, my career spanned animated television, national commer
   * *BFA Fine Arts*, University of Pennsylvania, 1997
   * *MFA Computer Art*, Academy of Art University, 2004
 <br>
+---
+
 ### Professional Experience
   * *Associate Chair, Interactive Design and Game Development,* Savannah College of Art and Design, 2020 – present<br>
     * Educational Strategist and Assistant Manager for SCAD’s ITGM BA, BFA, MA and MFA Interactive Design and Game Development Programs<br>
   * *Computer Graphics Consultant,* Box Rocket Studio, 2019 - present<br>
     *  Animation, Content Strategy, Game Development, Real Time Systems and Workflows.<br>
 <br>
+
 ### Teaching and Lectures
   * *Savannah College of Art and Design,* Interactive Design and Game Development, Savannah, GA, 2020 - current<br>
     * ITGM 310: Animation for Games, SCAD / ITGM, School of Digital Media, Spring 2021<br>
@@ -41,9 +42,11 @@ Prior to my work at SCAD, my career spanned animated television, national commer
     * *The Art Institute of Santa Monica,* Santa Monica, CA, 2012 – 2014<br>
       * Previsualization/Animation with Maya, and Game Design<br>
 <br>
-  * *School of Visual Arts,* New York, NY, 1999 – 2000<br>
-    * 3d Modeling and Animation with Maya, Animation and Interactive Design with Flash<br>
+    * *School of Visual Arts,* New York, NY, 1999 – 2000<br>
+      * 3d Modeling and Animation with Maya, Animation and Interactive Design with Flash<br>
 <br>
+---
+
 ### Workshops and Lectures
     * *Introduction to Machine Learning for Artists,* SCAD / SCAD-Extra Workshop, Virtual, Spring 2021 <br>
         * Accessible Model Training for Artists with Convolutional Neural Networks and Generative Adversarial Networks.<br>
@@ -51,6 +54,7 @@ Prior to my work at SCAD, my career spanned animated television, national commer
     * *Animation and Emergent Technology,* Academy of Art University, San Francisco, CA
     * *Animation and Emergent Technology,* Cogswell college, Palo Alto, CA
 <br>
+---
 ### Animation Direction and Development
     * *Aatma Studio Rebrand / Relaunch,*	Aatma Studio, San Francisco, CA, 2018
     * *Mitsubishi iJet Sword Paper,*	Animus Studios, Providence, RI, 2014
@@ -60,6 +64,7 @@ Prior to my work at SCAD, my career spanned animated television, national commer
     * *Magnetism – Thesis Film,*	Academy of Art University, San Francisco, CA, 2008
     * *Jerry and the Box of Cereal,*	NyeWarburton.com, Seattle, WA, 1999
 <br>
+---
 ### Game Design, Direction and Development
     * 	*Live Stream Game Show Prototype,*	Sony Television Games, Los Angeles, CA, 2017
     * 	*Way of the Bow / PulseCat,*	Bloopco Inc., Los Angeles, CA, 2016
@@ -69,6 +74,7 @@ Prior to my work at SCAD, my career spanned animated television, national commer
     * 	*Word Eater – iOS,*	Fabric Interactive, Los Angeles, CA, 2013
     * 	*Commander Cluck – iOS Game,*	NyeWarburton.com/Rao Productions, Los Angeles, CA, 2012
 <br>
+---
 ### Professional Computer Graphics and Animation Activity
     * *Senior Previsualization Artist,* Star Trek Discovery, CBS	Pixomondo, Los Angeles, CA, 2018
     * *Lead Previsualization Artist,* Future Future	Pixomondo, Los Angeles, CA, 2018		
@@ -106,21 +112,25 @@ Prior to my work at SCAD, my career spanned animated television, national commer
     * *Effects Artist,* The Code – Independent Feature	New York, NY, 2000
     * *Motion Graphics Artist,* WNAC Fox Providence Television	Providence, RI, 1998 – 1999
 <br>
+---
 ### Comic Writing and Development
     * *Nyetoon,* Comic Blog	Los Angeles, CA, 2008 –	2020
     * *The Sanity Index,* Comic Blog	Los Angeles, CA, 2011
     * *The Interndimensional Adventures of Floyd and Norm,* Comic Series	Los Angeles, CA, 2012
 <br>
+---
 ### Awards
     * *Magnetism,* 1st Place Animation, Spring Show	Academy of Art University, 2004
     * *Magnetism,* Best of Show, KidsEye Festival	Providence, RI, 2004
 <br>
+---
 ### Coursework
     * *Fine Arts / Photography / History*	Temple University, Rome, Italy, 1995
     * *Richard Williams Animation Master Class*	Viborg, Denmark, 2003
     * *CGI / Maya Training	Mesmer Animation Labs,* Seattle, WA, 1998
     * *Screen Writing	University of California,* Los Angeles, CA, 2006
 <br>
+---
 ### Other Activity
   * *Improvisational Comedian,* Polywumpus	Philadelphia, PA, 1997 – 1998
   * *Improvisational Comedian,* Without a Net	University of Pennsylvania, , Philadelphia, PA, 1995 – 1997
