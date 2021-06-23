@@ -48,93 +48,93 @@ Prior to my work at SCAD, my career spanned animated television, national commer
 ---
 
 ### Workshops and Lectures
-    * *Introduction to Machine Learning for Artists,* SCAD / SCAD-Extra Workshop, Virtual, Spring 2021 <br>
+  * *Introduction to Machine Learning for Artists,* SCAD / SCAD-Extra Workshop, Virtual, Spring 2021 <br>
         * Accessible Model Training for Artists with Convolutional Neural Networks and Generative Adversarial Networks.<br>
-    * *Entrepreneurship and IoT,* Boston University, MA<br>
-    * *Animation and Emergent Technology,* Academy of Art University, San Francisco, CA<br>
-    * *Animation and Emergent Technology,* Cogswell college, Palo Alto, CA<br>
+  * *Entrepreneurship and IoT,* Boston University, MA<br>
+  * *Animation and Emergent Technology,* Academy of Art University, San Francisco, CA<br>
+  * *Animation and Emergent Technology,* Cogswell college, Palo Alto, CA<br>
 <br>
 
 ---
 ### Animation Direction and Development
-    * *Aatma Studio Rebrand / Relaunch,*	Aatma Studio, San Francisco, CA, 2018<br>
-    * *Mitsubishi iJet Sword Paper,*	Animus Studios, Providence, RI, 2014<br>
-    * *Get Wild – Short Film,*	Wildlife.LA, Los Angeles, CA, 2013<br>
-    * *MadHouse – Short Series,*	Fox Inkubation Development, Los Angeles, CA, 2010<br>
-    * *Benny: Escaped Convict,*	Atom.com / Comedy Central, Los Angeles, CA, 2008<br>
-    * *Magnetism – Thesis Film,*	Academy of Art University, San Francisco, CA, 2008<br>
-    * *Jerry and the Box of Cereal,*	NyeWarburton.com, Seattle, WA, 1999<br>
+  * *Aatma Studio Rebrand / Relaunch,*	Aatma Studio, San Francisco, CA, 2018<br>
+  * *Mitsubishi iJet Sword Paper,*	Animus Studios, Providence, RI, 2014<br>
+  * *Get Wild – Short Film,*	Wildlife.LA, Los Angeles, CA, 2013<br>
+  * *MadHouse – Short Series,*	Fox Inkubation Development, Los Angeles, CA, 2010<br>
+  * *Benny: Escaped Convict,*	Atom.com / Comedy Central, Los Angeles, CA, 2008<br>
+  * *Magnetism – Thesis Film,*	Academy of Art University, San Francisco, CA, 2008<br>
+  * *Jerry and the Box of Cereal,*	NyeWarburton.com, Seattle, WA, 1999<br>
 <br>
 ---
 
 ### Game Design, Direction and Development
-    * *Live Stream Game Show Prototype,*	Sony Television Games, Los Angeles, CA, 2017<br>
-    * *Way of the Bow / PulseCat,*	Bloopco Inc., Los Angeles, CA, 2016<br>
-    * *Playwell Prototype – HTML5,*	Playwell, Los Angeles, CA, 2015<br>
-    * *Stanley Kickback – HTML5,*	NyeWarburton.com, Los Angeles, CA, 2015<br>
-    * *Flyer Prototype – Unreal Engine,*	LimbX LLC., Los Angeles, CA, 2014<br>
-    * *Word Eater – iOS,*	Fabric Interactive, Los Angeles, CA, 2013<br>
-    * *Commander Cluck – iOS Game,*	NyeWarburton.com/Rao Productions, Los Angeles, CA, 2012<br>
+  * *Live Stream Game Show Prototype,*	Sony Television Games, Los Angeles, CA, 2017<br>
+  * *Way of the Bow / PulseCat,*	Bloopco Inc., Los Angeles, CA, 2016<br>
+  * *Playwell Prototype – HTML5,*	Playwell, Los Angeles, CA, 2015<br>
+  * *Stanley Kickback – HTML5,*	NyeWarburton.com, Los Angeles, CA, 2015<br>
+  * *Flyer Prototype – Unreal Engine,*	LimbX LLC., Los Angeles, CA, 2014<br>
+  * *Word Eater – iOS,*	Fabric Interactive, Los Angeles, CA, 2013<br>
+  * *Commander Cluck – iOS Game,*	NyeWarburton.com/Rao Productions, Los Angeles, CA, 2012<br>
 <br>
 ---
 
 ### Professional Computer Graphics and Animation Activity
-    * *Senior Previsualization Artist,* Star Trek Discovery, CBS	Pixomondo, Los Angeles, CA, 2018<br>
-    * *Lead Previsualization Artist,* Future Future	Pixomondo, Los Angeles, CA, 2018 <br>
-    * *Previsualization/Layout Supervisor,* Skyhunter	Pixomondo, Los Angeles, CA, 2017<br>
-    * *Animator,* Nagano, Microsoft	Digital Domain, Los Angeles, CA, 2014, 2017<br>
-    * *Senior Previsualization Artist,* Oblivion, Universtal Pictures	The Third Floor Inc., Los Angeles, CA, 2014<br>
-    * *Senior Previsualization Artist,* X-Men: Days of Future Past, Fox Features	The Third Floor Inc., Los Angeles, CA, 2014<br>
-    * *Senior Previsualization Artist,* Godzilla, Legendary/Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2014<br>
-    * *Previsualization Artist,* Mad Max Game Launch Trailer	Digital Domain Commercials, Los Angeles, CA, 2013<br>
-    * *Animator/Previsualization Artist,* Malificent, Disney	Digital Domain, Los Angeles, CA, 2013<br>
-    * *Senior Previsualization Artist,* 300: Rise of an Empire, Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2013<br>
-    * *Post-Visualization Artist,* Robosabient: Rebooted, Marvel	The Third Floor Inc., Los Angeles, CA, 2013<br>
-    * *Senior Previsualization Artist,* Jack the Giant Slayer, Legendary / Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2013<br>
-    * *Previsualization Artist,* NBA2K13, 2K Games	Digital Domain Commercials, Los Angeles, CA, 2012<br>
-    * *Senior Previsualization Artist,* Oz the Great and Powerful, Disney	The Third Floor Inc., Los Angeles, CA, 2012<br>
-    * *Senior Previsualization Artist,* Men in Black III, Sony Pictures	The Third Floor Inc., Queens, NY, 2012<br>
-    * *Senior Previsualization Artist,* The Avengers, Marvel	The Third Floor Inc., Los Angeles, CA, 2011<br>
-    * *Senior Previsualization Artist,* Battleship, Universal / Hasbro	The Third Floor Inc., Los Angeles, CA, 2011<br>
-    * *Senior Previsualization Artist,* Lost Planet 2, Capcom	The Third Floor Inc., Los Angeles, CA, 2010<br>
-    * *Senior Previsualization Artist,* Thor, Marvel	The Third Floor Inc., Los Angeles, CA, 2010<br>
-    * *Senior Previsualization Artist,* Cats & Dogs 2: The Revenge of Kitty Galore, Universal Studios	Proof Inc., Los Angeles, CA<br>
-    * *Senior Previsualization Artist,* The Losers, Warner Brothers	Proof Inc., Los Angeles, CA, 2010, 2010<br>
-    * *Senior Previsualization Artist,* The Tooth Fairy, Fox Features	Fox Cinedev, Los Angeles, CA, 2009<br>
-    * *Senior Previsualization Artist,* X-Men Origins: Wolverine, Fox Features	Fox Cinedev, Los Angeles, CA, 2007 – 2008<br>
-    * *Animator,* Empire Earth III, Sierra	Blur Studio, Los Angeles, CA, 2007<br>
-    * *Animator,* Dumbo – Disney Consumer Products	Blur Studio, Los Angeles, CA, 2007<br>
-    * *Animator,* Niagara’s Furry, Niagara Falls Tourism	Blur Studio, Los Angeles, CA, 2007<br>
-    * *Animator,* Monster’s Inc. Laugh Floor, Disney Imagineering	3D Site, Topanga, CA, 2006<br>
-    * *Animator,* Monster House, Columbia Pictures	Sony Imageworks, Los Angeles, CA, 2005 – 2006<br>
-    * *Animator,* Untitled James Bond Video Game	Electronic Arts, Redwood Shores, CA, 2004<br>
-    * *Animator,* The Lord of the Rings: The Third Age	Electronic Arts, Redwood Shores, CA, 2004<br>
-    * *Animator,* Urbz, Sims in the City	Electronic Arts, Redwood Shores, CA, 2004<br>
-    * *Artist / Compositor,* Celebrity Death Match	MTV Animation, New York, NY, 2000 – 2001	<br>
-    * *After Effects Animator,* MTV Animation Development	MTV Animation, New York, NY, 2000<br>
-    * *Effects Artist,* The Code – Independent Feature	New York, NY, 2000<br>
-    * *Motion Graphics Artist,* WNAC Fox Providence Television	Providence, RI, 1998 – 1999<br>
+  * *Senior Previsualization Artist,* Star Trek Discovery, CBS	Pixomondo, Los Angeles, CA, 2018<br>
+  * *Lead Previsualization Artist,* Future Future	Pixomondo, Los Angeles, CA, 2018 <br>
+  * *Previsualization/Layout Supervisor,* Skyhunter	Pixomondo, Los Angeles, CA, 2017<br>
+  * *Animator,* Nagano, Microsoft	Digital Domain, Los Angeles, CA, 2014, 2017<br>
+  * *Senior Previsualization Artist,* Oblivion, Universtal Pictures	The Third Floor Inc., Los Angeles, CA, 2014<br>
+  * *Senior Previsualization Artist,* X-Men: Days of Future Past, Fox Features	The Third Floor Inc., Los Angeles, CA, 2014<br>
+  * *Senior Previsualization Artist,* Godzilla, Legendary/Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2014<br>
+  * *Previsualization Artist,* Mad Max Game Launch Trailer	Digital Domain Commercials, Los Angeles, CA, 2013<br>
+  * *Animator/Previsualization Artist,* Malificent, Disney	Digital Domain, Los Angeles, CA, 2013<br>
+  * *Senior Previsualization Artist,* 300: Rise of an Empire, Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2013<br>
+  * *Post-Visualization Artist,* Robosabient: Rebooted, Marvel	The Third Floor Inc., Los Angeles, CA, 2013<br>
+  * *Senior Previsualization Artist,* Jack the Giant Slayer, Legendary / Warner Brothers	The Third Floor Inc., Los Angeles, CA, 2013<br>
+  * *Previsualization Artist,* NBA2K13, 2K Games	Digital Domain Commercials, Los Angeles, CA, 2012<br>
+  * *Senior Previsualization Artist,* Oz the Great and Powerful, Disney	The Third Floor Inc., Los Angeles, CA, 2012<br>
+  * *Senior Previsualization Artist,* Men in Black III, Sony Pictures	The Third Floor Inc., Queens, NY, 2012<br>
+  * *Senior Previsualization Artist,* The Avengers, Marvel	The Third Floor Inc., Los Angeles, CA, 2011<br>
+  * *Senior Previsualization Artist,* Battleship, Universal / Hasbro	The Third Floor Inc., Los Angeles, CA, 2011<br>
+  * *Senior Previsualization Artist,* Lost Planet 2, Capcom	The Third Floor Inc., Los Angeles, CA, 2010<br>
+  * *Senior Previsualization Artist,* Thor, Marvel	The Third Floor Inc., Los Angeles, CA, 2010<br>
+  * *Senior Previsualization Artist,* Cats & Dogs 2: The Revenge of Kitty Galore, Universal Studios	Proof Inc., Los Angeles, CA<br>
+  * *Senior Previsualization Artist,* The Losers, Warner Brothers	Proof Inc., Los Angeles, CA, 2010, 2010<br>
+  * *Senior Previsualization Artist,* The Tooth Fairy, Fox Features	Fox Cinedev, Los Angeles, CA, 2009<br>
+  * *Senior Previsualization Artist,* X-Men Origins: Wolverine, Fox Features	Fox Cinedev, Los Angeles, CA, 2007 – 2008<br>
+  * *Animator,* Empire Earth III, Sierra	Blur Studio, Los Angeles, CA, 2007<br>
+  * *Animator,* Dumbo – Disney Consumer Products	Blur Studio, Los Angeles, CA, 2007<br>
+  * *Animator,* Niagara’s Furry, Niagara Falls Tourism	Blur Studio, Los Angeles, CA, 2007<br>
+  * *Animator,* Monster’s Inc. Laugh Floor, Disney Imagineering	3D Site, Topanga, CA, 2006<br>
+  * *Animator,* Monster House, Columbia Pictures	Sony Imageworks, Los Angeles, CA, 2005 – 2006<br>
+  * *Animator,* Untitled James Bond Video Game	Electronic Arts, Redwood Shores, CA, 2004<br>
+  * *Animator,* The Lord of the Rings: The Third Age	Electronic Arts, Redwood Shores, CA, 2004<br>
+  * *Animator,* Urbz, Sims in the City	Electronic Arts, Redwood Shores, CA, 2004<br>
+  * *Artist / Compositor,* Celebrity Death Match	MTV Animation, New York, NY, 2000 – 2001	<br>
+  * *After Effects Animator,* MTV Animation Development	MTV Animation, New York, NY, 2000<br>
+  * *Effects Artist,* The Code – Independent Feature	New York, NY, 2000<br>
+  * *Motion Graphics Artist,* WNAC Fox Providence Television	Providence, RI, 1998 – 1999<br>
 <br>
 ---
 
 ### Comic Writing and Development
-    * *Nyetoon,* Comic Blog	Los Angeles, CA, 2008 –	2020<br>
-    * *The Sanity Index,* Comic Blog	Los Angeles, CA, 2011<br>
-    * *The Interndimensional Adventures of Floyd and Norm,* Comic Series	Los Angeles, CA, 2012<br>
+  * *Nyetoon,* Comic Blog	Los Angeles, CA, 2008 –	2020<br>
+  * *The Sanity Index,* Comic Blog	Los Angeles, CA, 2011<br>
+  * *The Interndimensional Adventures of Floyd and Norm,* Comic Series	Los Angeles, CA, 2012<br>
 <br>
 ---
 
 ### Awards
-    * *Magnetism,* 1st Place Animation, Spring Show	Academy of Art University, 2004<br>
-    * *Magnetism,* Best of Show, KidsEye Festival	Providence, RI, 2004<br>
+  * *Magnetism,* 1st Place Animation, Spring Show	Academy of Art University, 2004<br>
+  * *Magnetism,* Best of Show, KidsEye Festival	Providence, RI, 2004<br>
 <br>
 ---
 
 ### Coursework
-    * *Fine Arts / Photography / History*	Temple University, Rome, Italy, 1995<br>
-    * *Richard Williams Animation Master Class*	Viborg, Denmark, 2003<br>
-    * *CGI / Maya Training	Mesmer Animation Labs,* Seattle, WA, 1998<br>
-    * *Screen Writing	University of California,* Los Angeles, CA, 2006<br>
+  * *Fine Arts / Photography / History*	Temple University, Rome, Italy, 1995<br>
+  * *Richard Williams Animation Master Class*	Viborg, Denmark, 2003<br>
+  * *CGI / Maya Training	Mesmer Animation Labs,* Seattle, WA, 1998<br>
+  * *Screen Writing	University of California,* Los Angeles, CA, 2006<br>
 <br>
 ---
 
