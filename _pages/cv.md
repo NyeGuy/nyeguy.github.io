@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br>
-[Linkedin](https://linkedin.com/in/nyewarburton)|[IMDB](https://www.imdb.com/name/nm1100970/)[Twiiter]|(https://twitter.com/nyewarburton)<br>
+[Linkedin](https://linkedin.com/in/nyewarburton)  ||  [IMDB](https://www.imdb.com/name/nm1100970/)  ||  [Twitter](https://twitter.com/nyewarburton)  <br>
 
 ### Personal Bio
 
