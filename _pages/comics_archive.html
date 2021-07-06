@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Comics"
+permalink: /comics/
+author_profile: true
+---
+
+<img src="../images/nyetoon_header.png"></img>
+---
+<br>
+Nyetoon 2010 - present
+<br>
+---
+
+{% include base_path %}
+{% for post in site.comics reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
