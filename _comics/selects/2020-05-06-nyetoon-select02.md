@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: Test Comic"
 collection: comics
-permalink: /comics/selects/2020-05-06-nyetoon-select-01
+permalink: /comics/selects/2020-05-06-nyetoon-select-02
 ---
 Test Comic
 
