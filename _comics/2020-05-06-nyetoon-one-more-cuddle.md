@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: One More Cuddle"
 collection: comics
-permalink: /comics/2020-06-05-nyetoon-one-more-cuddle
+permalink: /comics/2020-05-06-nyetoon-one-more-cuddle
 ---
 
 ![Eviction](../images/comics/nyetoon/Nyetoon_OneMoreCuddle_01.jpg)
