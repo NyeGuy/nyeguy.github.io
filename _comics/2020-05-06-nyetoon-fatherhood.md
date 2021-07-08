@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: Fatherhood"
 collection: comics
-permalink: /comics/2020-06-05-nyetoon-fatherhood
+permalink: /comics/2020-05-06-nyetoon-fatherhood
 ---
 
 Fatherhood Analytics<br>
