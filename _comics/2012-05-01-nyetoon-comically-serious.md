@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: Comically Serious"
 collection: comics
-permalink: /comics/2012-05-01-comically-serious
+permalink: /comics/2012-05-01-nyetoon-comically-serious
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: How to Deal with Anxiety"
 collection: comics
-permalink: /comics/2012-05-01-deal-with-anxiety
+permalink: /comics/2012-05-01-nyetoon-deal-with-anxiety
 ---
 
 

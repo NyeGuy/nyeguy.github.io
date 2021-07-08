@@ -1,7 +1,7 @@
 ---
 title: "Nyetoon: Great Animators Do Nyetoon"
 collection: comics
-permalink: /comics/2012-05-01-great-animators-do-nyetoon
+permalink: /comics/2012-05-01-nyetoon-great-animators
 ---
 
 Great Animators do Nyetoon\
