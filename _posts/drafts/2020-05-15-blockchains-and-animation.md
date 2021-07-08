@@ -20,7 +20,7 @@ I was working on a studio lot to work on a film. I used the internal studio inde
 
 My writing partner tactfully let the world know that we had set up a deal, and suddenly, a lawyer and an agent magically arrived. They told me, as experts, they would take care of the business dealings. I was removed from negotiations, and kept on the sidelines.
 
-Acting Agent Reddit AMA
+
 Three months later, the lawyer placed a stack of papers on the desk in front of me. It outlined a deal where I needed to work my ass off for imaginary outcomes, to which the network would own every character, joke, technical solution and story point until (should the show be green lit) the second season. And then, myself, my writing partner, and our production team would receive only a small percentage.
 
 “I’m being f*****.” I said out loud.
