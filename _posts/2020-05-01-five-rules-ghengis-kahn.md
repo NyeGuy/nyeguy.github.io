@@ -1,6 +1,6 @@
 ---
 title: 'The Five Rules of Ghengis Kahn'
-date: 2022-06-01
+date: 2020-05-01
 permalink: /posts/2020/05/five-rules-ghengis-kahn/
 tags:
   - strategy
