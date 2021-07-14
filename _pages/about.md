@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Nye Warburton](images\nyetoon_header.png)
+![Nye Warburton](images\nyepic_header.png)
 <br>
 I am an animator, educator and computer graphics researcher. For many years, I worked as a contract animator and visualization artist on a [number of high profile projects.](https://www.imdb.com/name/nm1100970/) I was also involved in several game and real time start ups. Now, I spend a lot of time thinking about how artists and animators will use automation tools and networked technology. For more information [you can check out my bio and CV.](https://nyeguy.github.io/cv/)
 <br>
