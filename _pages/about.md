@@ -13,7 +13,7 @@ I am an animator, educator and computer graphics researcher. For many years, I w
 <br>
 
 Feel free to [read some of the posts in my blog.](https://nyeguy.github.io/year-archive/)
-Or, if real time animation or game development interests you, [check out some of the classes I teach at SCAD.](https://nyeguy.github.io/teaching/)I also do consulting and research with [Box Rocket Studio.](http://boxrocket.studio)
+Or, if real time animation or game development interests you, [check out some of the classes I've taught'.](https://nyeguy.github.io/teaching/)I also do consulting and research with [Box Rocket Studio.](http://boxrocket.studio)
 <br>
 
 You can look at some of my past projects in my portfolio. There's [machine learning stuff,](https://nyeguy.github.io/portfolio/machine-learning-experiments) or [some games I've made.](https://nyeguy.github.io/portfolio/game-development) You can learn about [the movies I worked on.](https://nyeguy.github.io/portfolio/previsualization) Or maybe, check out [some of the comics I've scribbled](https://nyeguy.github.io/comics/) over the years.
@@ -23,7 +23,7 @@ I have a wide range of interests about all kinds of stuff. Feel free to say *"he
 My social links are in the "follow" button.
 <br>
 
-A quick note - I am rebuilding my entire site, which means some sections are incomplete. Please excuse missing links, etc.
+A quick note - this site is an ongoing process, which means some sections are incomplete. Please excuse missing links, etc.
 
 Thanks for visiting!
 
